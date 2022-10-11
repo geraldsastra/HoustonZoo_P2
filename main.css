@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     font-weight: 400;
     letter-spacing: 13px;     
 }
@@ -21,7 +21,7 @@ h2 {
 
 h3 {
     color:  #16694d;
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     font-weight: 600;
     letter-spacing: 4px;     
 }
